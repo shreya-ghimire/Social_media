@@ -101,5 +101,5 @@ This project is a Social Media Site built using the MERN stack (MongoDB, Express
 
     The application should now be running and accessible at `http://localhost:3000`.
 
-## Project Structure
+
 
