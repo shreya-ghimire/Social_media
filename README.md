@@ -7,19 +7,16 @@ This project is a Social Media Site built using the MERN stack (MongoDB, Express
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Setup Instructions](#setup-instructions)
-- [Project Structure](#project-structure)
 - [API Endpoints](#api-endpoints)
-- [License](#license)
+
 
 ## Features
 
 - User authentication and authorization
 - Profile creation and management
-- Posting, liking, and commenting on posts
+- Posting and liking on posts
 - Following and unfollowing users
-- Real-time notifications
-- Search functionality
-- Responsive design for both desktop and mobile views
+
 
 ## Tech Stack
 
